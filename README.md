@@ -8,8 +8,6 @@ Eu sou um(a) estudante e desenvolvedor interessado na área de Back-end.
 
 **Projetos Recentes**
 
-[Live Music](https://github.com/Gabriel-Correia-Silva/Live-music) - Um site de sessão em grupo para música.
-
 [Calendar](https://github.com/Gabriel-Correia-Silva/Calendar-Vue-SpringBoot) - Um calendário com Vue.js, Spring Boot e Docker com PostgreSQL.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Correia-Silva&show_icons=true&theme=radical)
