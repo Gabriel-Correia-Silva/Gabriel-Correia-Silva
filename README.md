@@ -74,7 +74,7 @@ Sou **Desenvolvedor Full Stack** com experiência prática em desenvolvimento de
 
 ## 💼 Experiência Profissional
 
-### 🏢 **NPI - Núcleo de Práticas em Informática** *(2024 - Atual)*
+### 🏢 **NPI - Núcleo de Práticas em Informática** *(2024 - 2025)*
 **Estagiário Full Stack Developer**
 
 🔹 **Sistema Integrado de Gestão de Bolsas**
