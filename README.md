@@ -99,14 +99,7 @@ Sou **Desenvolvedor Full Stack** com experiência prática em desenvolvimento de
 ## 🎓 Formação
 
 **🎓 Bacharelado em Engenharia de Software**  
-*Universidade Federal do Ceará (UFC)* | **2021 - 2025**
-
-**Disciplinas Relevantes:**
-- Desenvolvimento Web & Mobile
-- Gerência de Configuração
-- Programação Orientada a Objetos
-- Fundamentos em Banco de Dados
-- Estruturas de Dados
+*Universidade Federal do Ceará (UFC)* | Cursando
 
 ---
 
