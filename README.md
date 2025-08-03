@@ -6,7 +6,6 @@
   
   📍 **Quixadá, Ceará - Brasil**  
   📧 **gabrielcorreiacds@gmail.com**  
-  📱 **(88) 9 9235-0562**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gabriel-Correia-Silva)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcorreiacds@gmail.com)
